@@ -1,0 +1,329 @@
+10
+
+dir
+91
+https://192.168.1.200/svn/twoCode/trunk/Dtba/res
+https://192.168.1.200/svn/twoCode
+
+
+
+2014-04-14T02:05:58.149125Z
+86
+lqs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c36d19e1-5a00-af4a-9141-93994d3b8cd0
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-hdpi-800x480
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+layout-1280x720
+dir
+
+
+
+delete
+
+layout-1280x800
+dir
+
+
+
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+copied
+https://192.168.1.200/svn/twoCode/trunk/Dtba/res/layout-1280x720
+91
+
+layout-480x320
+dir
+
+
+
+delete
+
+layout-800x480
+dir
+
+layout-854x480
+dir
+
+
+
+add
+
+layout-land
+dir
+
+layout-large
+dir
+
+
+
+delete
+
+layout-port
+dir
+
+layout-sw600dp
+dir
+
+
+
+delete
+
+layout-xlarge
+dir
+
+
+
+delete
+
+menu
+dir
+
+raw
+dir
+
+values
+dir
+
+values-ar
+dir
+
+
+
+delete
+
+values-bg
+dir
+
+
+
+delete
+
+values-ca
+dir
+
+
+
+delete
+
+values-cs
+dir
+
+
+
+delete
+
+values-da
+dir
+
+
+
+delete
+
+values-de
+dir
+
+
+
+delete
+
+values-el
+dir
+
+
+
+delete
+
+values-es
+dir
+
+
+
+delete
+
+values-fi
+dir
+
+
+
+delete
+
+values-fr
+dir
+
+
+
+delete
+
+values-he
+dir
+
+
+
+delete
+
+values-hi
+dir
+
+
+
+delete
+
+values-hu
+dir
+
+
+
+delete
+
+values-id
+dir
+
+
+
+delete
+
+values-it
+dir
+
+
+
+delete
+
+values-iw
+dir
+
+
+
+delete
+
+values-ja
+dir
+
+
+
+delete
+
+values-ko
+dir
+
+
+
+delete
+
+values-nl
+dir
+
+
+
+delete
+
+values-pl
+dir
+
+
+
+delete
+
+values-pt
+dir
+
+
+
+delete
+
+values-ru
+dir
+
+
+
+delete
+
+values-sk
+dir
+
+
+
+delete
+
+values-sl
+dir
+
+
+
+delete
+
+values-sv
+dir
+
+
+
+delete
+
+values-tr
+dir
+
+
+
+delete
+
+values-v11
+dir
+
+values-v14
+dir
+
+values-zh-rCN
+dir
+
+values-zh-rTW
+dir
+
+xml
+dir
+
